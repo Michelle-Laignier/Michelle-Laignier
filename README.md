@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2R5N2JrN2JjYnJ1ODNodzdpcm4xcm9iNnE5NG10czV5bzF3bnV5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NoNw4pMNTvgc/giphy.gif" width="200" align="right" />
-
-- 🌱 estudando desenvolvimento web front-end na Rocketseat.
 
 ## Languages and Tools:
 <div>
@@ -31,8 +28,8 @@ Here are some ideas to get you started:
 </div>
 
 ## Stats:
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2R5N2JrN2JjYnJ1ODNodzdpcm4xcm9iNnE5NG10czV5bzF3bnV5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NoNw4pMNTvgc/giphy.gif" width="200" align="right" />
 <div>
 <a href="https://github.com/Michelle-Laignier">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michelle-Laignier&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Michelle-Laignier&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
